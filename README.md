@@ -12,16 +12,14 @@ There are 2 options to use this matrix:
 
 1. Open in GitHub pages (recommended): https://infopulse.github.io/Tech-Skills-Matrix-React
 2. Check out every skill category in markdown files: (will be updated)
-   - [Types of requirements](matrix/01.md)
-   - [Requirements elicitation](matrix/02.md)
-   - [Requirements documentation](matrix/03.md)
-   - [Requirements Management](matrix/04.md)
-   - [Product management](matrix/05.md)
-   - [Strategy Analysis & Business Process Automation](matrix/06.md)
-   - [Technical & business background](matrix/07.md)
-   - [Soft Skills](matrix/08.md)
-   - [Contribution to BA practice & company's sucess and recognition](matrix/09.md)
-   - [Certifications](matrix/10.md)
+   - [General](matrix/01.md)
+   - [Component styling](matrix/02.md)
+   - [Hooks](matrix/03.md)
+   - [State management](matrix/04.md)
+   - [Routing](matrix/05.md)
+   - [Testing](matrix/06.md)
+   - [Forms](matrix/07.md)
+   - [HttpClient](matrix/08.md)
 
 - Review required skills for each level and category
 - Give yourself honest feedback if you know well enough each skill (In future releases we will provide a self-assessment tool)
@@ -43,7 +41,7 @@ It is good to measure the skills using the matrix, but it is even better to have
 and gain new knowledge.
 
 - [The roadmap](roadmap/roadmap.md) _⚠️ Currently under development_
-- Checkout this roadmap as possible reference: https://roadmap.sh/
+- Checkout this roadmap as possible reference: https://roadmap.sh/frontend
 
 ## How to contribute?
 
